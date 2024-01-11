@@ -1,0 +1,10 @@
+PUT http://localhost:8080/events/4
+content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RBdXRoMyIsImV4cCI6MTcwNDk3NTY4MSwidXNlcklkIjozfQ.UILQtTvTFZwYYryJNNmNJV446pQLL38QcTGssb6wd8g
+
+{
+    "name": "testaut3",
+    "description": "aASD",
+    "location": "aASD",
+    "dateTime": "2025-01-01T15:30:00.000Z"
+}
